@@ -26,7 +26,7 @@ with open('exam_pdf_url.csv', 'r') as fin:
 
 with open('exam_pdf_url.csv', 'r') as fin:
     next(fin)
-    with open('ga_script.js', 'w') as fout:
+    with open('javascripts/ga_script.js', 'w') as fout:
         for line in fin:
             url, course, exam = line.strip().split(',')
             identifier_e = '%s_%s_e' % (course, exam)
