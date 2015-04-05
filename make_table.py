@@ -1,4 +1,4 @@
-PRE = "https://github.com/MER-wiki/pdf_version/blob/gh-pages/pdfs/"
+PRE = "https://github.com/MathEducationResources/pdf_version/blob/gh-pages/pdfs/"
 POST = "?raw=true"
 with open('exam_pdf_url.csv', 'r') as fin:
     next(fin)
@@ -46,13 +46,14 @@ with open('exam_pdf_url.csv', 'r') as fin:
 function addListener(element, type, callback) {
   if (element.addEventListener) element.addEventListener(type, callback);
   else if (element.attachEvent) element.attachEvent('on' + type, callback);
-}
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-49094053-1', 'ubc.ca');
-ga('require', 'linkid', 'linkid.js');
-ga('send', 'pageview');
-        """)
+}""")
+# (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  # (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  # m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+# })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+#
+# ga('create', 'UA-49094053-1', 'ubc.ca');
+# ga('require', 'linkid', 'linkid.js');
+# ga('send', 'pageview');
+        # """)
+#
