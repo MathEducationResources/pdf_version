@@ -166,6 +166,18 @@ var MATH101_April_2013_s=document.getElementById('MATH101_April_2013_s');
 addListener(MATH101_April_2013_s,'click',function(){
 ga('send','event','MER_pdf','click','MATH101_April_2013_s');
 });
+var MATH101_April_2014_e=document.getElementById('MATH101_April_2014_e');
+addListener(MATH101_April_2014_e,'click',function(){
+ga('send','event','MER_pdf','click','MATH101_April_2014_e');
+});
+var MATH101_April_2014_a=document.getElementById('MATH101_April_2014_a');
+addListener(MATH101_April_2014_a,'click',function(){
+ga('send','event','MER_pdf','click','MATH101_April_2014_a');
+});
+var MATH101_April_2014_s=document.getElementById('MATH101_April_2014_s');
+addListener(MATH101_April_2014_s,'click',function(){
+ga('send','event','MER_pdf','click','MATH101_April_2014_s');
+});
 var MATH102_December_2011_e=document.getElementById('MATH102_December_2011_e');
 addListener(MATH102_December_2011_e,'click',function(){
 ga('send','event','MER_pdf','click','MATH102_December_2011_e');
@@ -201,6 +213,18 @@ ga('send','event','MER_pdf','click','MATH102_December_2013_a');
 var MATH102_December_2013_s=document.getElementById('MATH102_December_2013_s');
 addListener(MATH102_December_2013_s,'click',function(){
 ga('send','event','MER_pdf','click','MATH102_December_2013_s');
+});
+var MATH102_December_2014_e=document.getElementById('MATH102_December_2014_e');
+addListener(MATH102_December_2014_e,'click',function(){
+ga('send','event','MER_pdf','click','MATH102_December_2014_e');
+});
+var MATH102_December_2014_a=document.getElementById('MATH102_December_2014_a');
+addListener(MATH102_December_2014_a,'click',function(){
+ga('send','event','MER_pdf','click','MATH102_December_2014_a');
+});
+var MATH102_December_2014_s=document.getElementById('MATH102_December_2014_s');
+addListener(MATH102_December_2014_s,'click',function(){
+ga('send','event','MER_pdf','click','MATH102_December_2014_s');
 });
 var MATH103_April_2005_e=document.getElementById('MATH103_April_2005_e');
 addListener(MATH103_April_2005_e,'click',function(){
@@ -286,6 +310,18 @@ var MATH103_April_2013_s=document.getElementById('MATH103_April_2013_s');
 addListener(MATH103_April_2013_s,'click',function(){
 ga('send','event','MER_pdf','click','MATH103_April_2013_s');
 });
+var MATH103_April_2014_e=document.getElementById('MATH103_April_2014_e');
+addListener(MATH103_April_2014_e,'click',function(){
+ga('send','event','MER_pdf','click','MATH103_April_2014_e');
+});
+var MATH103_April_2014_a=document.getElementById('MATH103_April_2014_a');
+addListener(MATH103_April_2014_a,'click',function(){
+ga('send','event','MER_pdf','click','MATH103_April_2014_a');
+});
+var MATH103_April_2014_s=document.getElementById('MATH103_April_2014_s');
+addListener(MATH103_April_2014_s,'click',function(){
+ga('send','event','MER_pdf','click','MATH103_April_2014_s');
+});
 var MATH104_December_2010_e=document.getElementById('MATH104_December_2010_e');
 addListener(MATH104_December_2010_e,'click',function(){
 ga('send','event','MER_pdf','click','MATH104_December_2010_e');
@@ -333,6 +369,18 @@ ga('send','event','MER_pdf','click','MATH104_December_2013_a');
 var MATH104_December_2013_s=document.getElementById('MATH104_December_2013_s');
 addListener(MATH104_December_2013_s,'click',function(){
 ga('send','event','MER_pdf','click','MATH104_December_2013_s');
+});
+var MATH104_December_2014_e=document.getElementById('MATH104_December_2014_e');
+addListener(MATH104_December_2014_e,'click',function(){
+ga('send','event','MER_pdf','click','MATH104_December_2014_e');
+});
+var MATH104_December_2014_a=document.getElementById('MATH104_December_2014_a');
+addListener(MATH104_December_2014_a,'click',function(){
+ga('send','event','MER_pdf','click','MATH104_December_2014_a');
+});
+var MATH104_December_2014_s=document.getElementById('MATH104_December_2014_s');
+addListener(MATH104_December_2014_s,'click',function(){
+ga('send','event','MER_pdf','click','MATH104_December_2014_s');
 });
 var MATH105_April_2009_e=document.getElementById('MATH105_April_2009_e');
 addListener(MATH105_April_2009_e,'click',function(){
@@ -394,6 +442,18 @@ var MATH105_April_2013_s=document.getElementById('MATH105_April_2013_s');
 addListener(MATH105_April_2013_s,'click',function(){
 ga('send','event','MER_pdf','click','MATH105_April_2013_s');
 });
+var MATH105_April_2014_e=document.getElementById('MATH105_April_2014_e');
+addListener(MATH105_April_2014_e,'click',function(){
+ga('send','event','MER_pdf','click','MATH105_April_2014_e');
+});
+var MATH105_April_2014_a=document.getElementById('MATH105_April_2014_a');
+addListener(MATH105_April_2014_a,'click',function(){
+ga('send','event','MER_pdf','click','MATH105_April_2014_a');
+});
+var MATH105_April_2014_s=document.getElementById('MATH105_April_2014_s');
+addListener(MATH105_April_2014_s,'click',function(){
+ga('send','event','MER_pdf','click','MATH105_April_2014_s');
+});
 var MATH110_April_2011_e=document.getElementById('MATH110_April_2011_e');
 addListener(MATH110_April_2011_e,'click',function(){
 ga('send','event','MER_pdf','click','MATH110_April_2011_e');
@@ -429,6 +489,18 @@ ga('send','event','MER_pdf','click','MATH110_April_2013_a');
 var MATH110_April_2013_s=document.getElementById('MATH110_April_2013_s');
 addListener(MATH110_April_2013_s,'click',function(){
 ga('send','event','MER_pdf','click','MATH110_April_2013_s');
+});
+var MATH110_April_2014_e=document.getElementById('MATH110_April_2014_e');
+addListener(MATH110_April_2014_e,'click',function(){
+ga('send','event','MER_pdf','click','MATH110_April_2014_e');
+});
+var MATH110_April_2014_a=document.getElementById('MATH110_April_2014_a');
+addListener(MATH110_April_2014_a,'click',function(){
+ga('send','event','MER_pdf','click','MATH110_April_2014_a');
+});
+var MATH110_April_2014_s=document.getElementById('MATH110_April_2014_s');
+addListener(MATH110_April_2014_s,'click',function(){
+ga('send','event','MER_pdf','click','MATH110_April_2014_s');
 });
 var MATH110_December_2010_e=document.getElementById('MATH110_December_2010_e');
 addListener(MATH110_December_2010_e,'click',function(){
